@@ -1,0 +1,6 @@
+echo "# foodAI.bot" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/tuhinmahmud/foodAI.bot.git
+git push -u origin master
